@@ -4,10 +4,11 @@
 
 # ***Skills***
 
----
+
+
 
 <aside>
-<img src="https://prod-files-secure.s3.us-west-2.amazonaws.com/d6fcdfb4-b1bc-4c6b-97f5-1f32b36202a7/04891b1c-5dad-43dd-83bb-0614d44acf33/java.png" alt="https://prod-files-secure.s3.us-west-2.amazonaws.com/d6fcdfb4-b1bc-4c6b-97f5-1f32b36202a7/04891b1c-5dad-43dd-83bb-0614d44acf33/java.png" width="40px" /> Java
+![image](https://github.com/user-attachments/assets/6cf7adf8-c8ae-44e8-b8f4-d4c07d94b9d4) Java
 
 </aside>
 
