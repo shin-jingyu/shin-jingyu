@@ -4,10 +4,11 @@
 
 ## 기술 스택
 
-- **언어**: Java, JavaScript
-- **프레임워크**: Spring, Spring Boot
-- **데이터베이스**: MySQL, PostgreSQL
-- **기타**: Git, Docker, SVN
+- **Programming Languages**: Java, JavaScript
+- **Frameworks**: Spring, Spring Boot
+- **Databases**: MySQL, PostgreSQL, Redis
+- **Development & Collaboration Tools**: Git, Docker, SVN
+- **Libraries and Tools**: Spring Data JPA, MyBatis, Lombok, MapStruct
 
 ## 프로젝트 경험
 
