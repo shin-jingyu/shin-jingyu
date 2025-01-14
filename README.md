@@ -10,16 +10,5 @@
 - **Development & Collaboration Tools**: Git, Docker, SVN
 - **Libraries and Tools**: Spring Data JPA, MyBatis, Lombok, MapStruct
 
-## 프로젝트 경험
 
-- **자유로운 중고거래 플랫폼 동네마켓** (2023-07-29 \~ 2023-09-03)
-  - 같은 지역 내에서 중고거래와 커뮤니티를 결합한 플랫폼 개발
-- **STA** (2023-10-01 \~ 2023-12-31)
-  - 이미지 콘텐츠를 활용한 앨범형 게시판 개발
-
-## 연락처
-
-- **이메일**: [wlsrb97@naver.com](mailto\:wlsrb97@naver.com)
-- **블로그**: [개발 일상 블로그](https://jjangadadcodingdiary.tistory.com/)
-- **GitHub**: [GitHub 프로필](https://github.com/shin-jingyu)
 
