@@ -2,6 +2,10 @@
 
 효율적인 백엔드 시스템 개발과 문제 해결을 통해 지속적으로 성장하고 있습니다. 새로운 기술을 배우고 빠르게 적용하는 데 열정을 가지고 있습니다.
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{shin-jingyu}"/>
+</a>
+
 ## 기술 스택
 
 - **Programming Languages**: Java, JavaScript
