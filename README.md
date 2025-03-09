@@ -1,6 +1,6 @@
 # 배움과 해결을 즐기는 백엔드 개발자
 
-### 왜 필요한가?", "어떻게 적용할 수 있는가?"를 고민하며, 실무에 활용할 방법을 찾습니다.
+### "왜 필요한가?", "어떻게 적용할 수 있는가?"를 고민하며, 실무에 활용할 방법을 찾습니다.
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{shin-jingyu}"/>
