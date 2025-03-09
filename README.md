@@ -1,6 +1,6 @@
-# 안녕하세요, 새로운 도전과 지속적인 성장을 지향하는 백엔드 개발자 신진규입니다.
+# 배움과 해결을 즐기는 백엔드 개발자
 
-효율적인 백엔드 시스템 개발과 문제 해결을 통해 지속적으로 성장하고 있습니다. 새로운 기술을 배우고 빠르게 적용하는 데 열정을 가지고 있습니다.
+### 왜 필요한가?", "어떻게 적용할 수 있는가?"를 고민하며, 실무에 활용할 방법을 찾습니다.
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{shin-jingyu}"/>
@@ -8,11 +8,12 @@
 
 ## 기술 스택
 
-- **Programming Languages**: Java, JavaScript
-- **Frameworks**: Spring, Spring Boot
-- **Databases**: MySQL, PostgreSQL, Redis
-- **Development & Collaboration Tools**: Git, Docker, SVN
-- **Libraries and Tools**: Spring Data JPA, MyBatis, Lombok, MapStruct
-
-
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat&logo=hibernate&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/QueryDSL-005571?style=flat" height="30">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" height="30">
+</p>
