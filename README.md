@@ -21,7 +21,7 @@ Java와 Spring을 기반으로 서버 애플리케이션을 개발하고 있습�
 ### 모피어스 시큐리티
 
 **Backend Developer**
-2024.03 ~ 현재
+2024.03 ~ 2026.07
 
 `Java` `Spring` `PostgreSQL` `JavaScript` `Android`
 
